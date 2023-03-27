@@ -36,19 +36,10 @@ Soy Ingeniero de Sistemas e Informática con Máster en Inteligencia Artificial.
 - [Cerna Fukuzaki, F. G. & Ubalde Enriquez, R. (2020). Automation psychological assessments with cloud computing.](https://hdl.handle.net/20.500.12867/3067)
 - [Cerna Fukuzaki, F. G. (2019). Sistema WebVR para el proceso de evaluación psicológica en una consultora de recursos humanos en Lima 2019.](https://hdl.handle.net/20.500.12867/1857)
 
-
 ## 📫 Contacto
 
-📧 Correo electrónico: [fcernaf@gmail.com](mailto:fcernaf@gmail.com)
-
-💻 GitHub: [fcernafukuzaki](https://github.com/fcernafukuzaki)
-
-🌐 LinkedIn: [fcernafukuzaki](https://www.linkedin.com/in/fcernafukuzaki/)
-
-📈 Kaggle: [fcernafukuzaki](https://www.kaggle.com/fcernafukuzaki)
-
-🤗 Hugging Face: [fcernafukuzaki](https://huggingface.co/fcernafukuzaki)
-
-
-
-
+- 📧 Correo electrónico: [fcernaf@gmail.com](mailto:fcernaf@gmail.com)
+- 💻 GitHub: [fcernafukuzaki](https://github.com/fcernafukuzaki)
+- 🌐 LinkedIn: [fcernafukuzaki](https://www.linkedin.com/in/fcernafukuzaki/)
+- 📈 Kaggle: [fcernafukuzaki](https://www.kaggle.com/fcernafukuzaki)
+- 🤗 Hugging Face: [fcernafukuzaki](https://huggingface.co/fcernafukuzaki)
