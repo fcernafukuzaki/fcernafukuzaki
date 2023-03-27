@@ -1,16 +1,54 @@
-### Hi there 👋
 
-<!--
-**fcernafukuzaki/fcernafukuzaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hola, soy Francisco Cerna Fukuzaki 👨‍💻
 
-Here are some ideas to get you started:
+Data Scientist | Machine Learning Engineer | AI Master Degree | Python Developer | AWS Certified
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔎 Acerca de mí
+
+Soy Ingeniero de Sistemas e Informática con Máster en Inteligencia Artificial. Tengo más de 10 años de experiencia en desarrollo de sistemas y más de 6 años en el área de banca y seguros. Además, cuento con adaptabilidad para trabajar en equipo, capacidad de resolución de problemas, orientado a resultados y altamente enfocado a la consecución de objetivos. 💡⚡
+
+### 🎓 Educación
+
+- 🇪🇸 **Máster en Inteligencia Artificial,** Universidad Internacional de La Rioja
+- 🇵🇪 **Ingeniero de Sistemas e Informática,** Universidad Tecnológica del Perú
+
+### 🛠️ Habilidades técnicas
+- 🐍 Python
+- ☕ Java
+- 📊 Machine Learning
+- 🤖 Deep Learning
+- 📉 Análisis de datos
+- 🗃️ SQL (Oracle, SQL Server, MySQL y PostgreSQL)
+- 🗃️ NoSQL (MongoDB, DynamoDB y CosmosDB)
+- ☁️ AWS
+- ☁️ Azure Cloud
+- ☁️ Google Cloud
+
+### 🎓 Certificaciones
+
+- [**Google,** Google Data Analytics Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/RKVYFLYGBRLE)
+- [**Amazon Web Services,** AWS Certified Cloud Practitioner (V5VWKPD1GMEEQQ5T)](http://aws.amazon.com/verification)
+- [**Coursera,** IBM Data Analyst Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/ADV5Y8CHAPXC)
+- [**Scrum.org,** Professional Scrum Master I](https://www.scrum.org/user/538403)
+- [**Oracle,** Oracle Certified Professional, Java SE 6 Programmer](https://www.youracclaim.com/badges/0358c33e-90fa-429e-b7ce-7389deae09ee/linked_in_profile)
+
+### 📚 Publicaciones
+- [Cerna Fukuzaki, F. G. & Ubalde Enriquez, R. (2020). Automation psychological assessments with cloud computing.](https://hdl.handle.net/20.500.12867/3067)
+- [Cerna Fukuzaki, F. G. (2019). Sistema WebVR para el proceso de evaluación psicológica en una consultora de recursos humanos en Lima 2019.](https://hdl.handle.net/20.500.12867/1857)
+
+
+## 📫 Contacto
+
+📧 Correo electrónico: [fcernaf@gmail.com](mailto:fcernaf@gmail.com)
+
+💻 GitHub: [fcernafukuzaki](https://github.com/fcernafukuzaki)
+
+🌐 LinkedIn: [fcernafukuzaki](https://www.linkedin.com/in/fcernafukuzaki/)
+
+📈 Kaggle: [fcernafukuzaki](https://www.kaggle.com/fcernafukuzaki)
+
+🤗 Hugging Face: [fcernafukuzaki](https://huggingface.co/fcernafukuzaki)
+
+
+
+
