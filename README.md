@@ -38,8 +38,6 @@ Soy Ingeniero de Sistemas e Informática con Máster en Inteligencia Artificial.
 
 ## 📫 Contacto
 
-- 📧 Correo electrónico: [fcernaf@gmail.com](mailto:fcernaf@gmail.com)
-- 💻 GitHub: [fcernafukuzaki](https://github.com/fcernafukuzaki)
 - 🌐 LinkedIn: [fcernafukuzaki](https://www.linkedin.com/in/fcernafukuzaki/)
 - 📈 Kaggle: [fcernafukuzaki](https://www.kaggle.com/fcernafukuzaki)
 - 🤗 Hugging Face: [fcernafukuzaki](https://huggingface.co/fcernafukuzaki)
